@@ -1,0 +1,20 @@
+{
+ "name": "Pearl Blend Premium Tea",
+ "short_name": "Pearl Blend",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#06140d",
+ "theme_color": "#0b2419",
+ "icons": [
+  {
+   "src": "images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "images/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
